@@ -2,34 +2,16 @@
 
 <h2 align="center">Hi 👋! My name is GuN07 and I'm from Korea.</h2>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=true&custom_title=Github Stats&username=gitu" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&custom_title=Languages&username=gitu" height="150" alt="languages graph"  />
-</div>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GuN07&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GuN07&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuN07&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" width="42" alt="kotlin logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" width="42" alt="intellij logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" width="42" alt="pycharm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-</div>
-
-###
-
-<img href="https://raw.githubusercontent.com/gitu/gitu/blob/output/snake.svg" alt="Snake animation" />
-
-###
+---
+[![](https://visitcount.itsvg.in/api?id=GuN07&icon=2&color=12)](https://visitcount.itsvg.in)
