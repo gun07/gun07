@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋! My name is GuN07 and I'm from Korea.</h2>
   
 
-- 🔭 I’m currently working on [MC Test Plugin](https://github.com/gun07/PluginTests)  
+- 🔭 I’m currently working on [IDK](https://github.com/gun07/PluginTests)  
   
 
 - 🌱 I’m currently learning Java and Kotlin  
