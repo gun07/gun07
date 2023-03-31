@@ -5,7 +5,7 @@
 
 <br clear="both">
 
-<h1 align="center">Hi 👋! My name is GuN07 and I'm from Korea.</h2>
+<h1 align="center">Hi 👋! My name is GuN and I'm from Korea.</h2>
   
 
 - 🔭 I’m currently working on [IDK](https://github.com/gun07/PluginTests)  
