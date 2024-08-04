@@ -8,10 +8,10 @@
 <h1 align="center">Hi 👋! My name is GuN and I'm from Korea.</h2>
   
 
-- 🔭 I’m currently working on [Something](https://github.com/gun07/PluginTests)  
+- 🔭 I’m currently working on [Something](https://github.com/TeamFiveGuysSuperAWESOME/BeatShape)  
   
 
-- 🌱 I’m currently learning Java and Kotlin  
+- 🌱 I’m currently learning C#  
 
 
 ## 💻 Tech Stack:
